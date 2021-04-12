@@ -1,19 +1,16 @@
+## Growth Mindset
 
-# How you can benefit from a growth mindset 
-The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
-The concept of a growth mindset is a popular topic lately, and I sometimes say to myself “Self, you need to embrace the growth mindset. The growth mindset is cool.”
-Why? The aptly named growth mindset helps us grow in whatever we pursue – especially in our work. When we’re growing, we’re more productive. And when I’m productive, I feel better. And you can, too.
+![Growth Mindset](https://www.clipartkey.com/mpngs/m/8-86415_brain-clipart-muscles-brain-with-muscles-cartoon.png)
 
-![growth mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
+## What is a growth mindset for me?
+It is the mentality that believes in **( developing / acquiring )** any skill over time and that it can control that through perseverance and hard work. 
 
-# What is a growth mindset?
-A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
+## 3 reminders to myself of how to keep myself in a growth mindset:
+* *No life with despair, no despair with life.*
+* *He who doesn't make mistakes doesn't learn.*
+* *Pain that doesn't break you, makes you stronger.*
 
-By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
+**About me:**
+My name is Suhaib Masalha, I've 24 years old and I've a bachelors degree of computer engineering from BAU,  I'm here to improve my English , and learning more about programming in this wonderful educational environment.
 
-Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:
-
-![fixed vs growth](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
-
-
-[Github URL](https://github.com/masalha-96)
+> GitHub URL: [MyGitHub](https://github.com/masalha-96) :smiley:	
