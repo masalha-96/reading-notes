@@ -8,4 +8,4 @@
 > ##  This image shows how GIT work 
 ![how Git work](https://miro.medium.com/max/3200/1*2QHqhirz3VbOCjfEwFbVXA.png)
 
-  ## **You can check this link for more information about [Git.](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)**
+  ## **You can check this link for more information about [Git.](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)** ##
