@@ -17,10 +17,10 @@
 ## 
 
 ## Advantages
-* It can be read & write easily
-* You don't have to be a technical to learn it
-* You can see any modification you make quickly
-* Support for popular visual editors
+* It can be read & write easily.
+* You don't have to be a technical to learn it.
+* You can see any modification you make quickly.
+* Support for popular visual editors.
 * easily share the markdown content between different devices.
 
 
