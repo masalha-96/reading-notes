@@ -49,7 +49,8 @@ Three| HTML5 Layout
 
 
 
-  # ChapterTwo :: `Extra Markup`
+
+# ChapterTwo :: `Extra Markup`
   
 * ### DOCTYPEs
   * DOCTYPES tell browsers which version of HTML you are using.
