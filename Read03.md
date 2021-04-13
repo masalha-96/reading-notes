@@ -8,7 +8,7 @@
 # Table Of Content
 
 
-No. Chapter | Subject
+Chapter No. | Subject
 --------|--------- 
 One  | Structure
 Two| Extra Markup 
