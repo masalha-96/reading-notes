@@ -6,6 +6,8 @@
 *HTML* stands for Hyper Text Markup Language. *HTML* is the standard markup language for creating Web pages. *HTML* describes the structure of a Web page. *HTML* consists of a series of elements. *HTML* elements tell the browser how to display the content.
 
 
+  -------------------------------
+  
 * ### DOCTYPEs
 DOCTYPES tell browsers which version of HTML you
 are using.
@@ -14,12 +16,15 @@ are using.
 
      for HTML5 we use <!DOCTYPE html>
 
-     
+  
+  -------------------------------
+
 
 * ###  COMMENTS on HTML
 
         <!-- comment goes here -->
 
+  -------------------------------
 * ###  ID ATTRIBUTE
 
         Every HTML element can carry
@@ -30,15 +35,21 @@ are using.
         for Ex; <p id="boldP">...<p>
 
         
+  -------------------------------
 * ###  ClASS ATTRIBUTE
 
       Every HTML element can also carry a class attribute
 
         for Ex; <p class="important">...<p>
 
+
+  -------------------------------
 * ###  BLOCK And INLINE Elements
 
     > #### BLOCK ELEMENTS
+
+* ###  BLOCK Elements
+
 
          <h1> Sohaib Msalha </h1> 
 
@@ -51,8 +62,11 @@ are using.
           <li> Religion: 28 Aug - 6 Nov 2011      </li>
         </ul> 
 
+
   > #### INLINE ELEMENTS
 
+  -------------------------------
+* ### INLINE Elements
          Some elements will always appear to continue on the same line as their 
          neighbouring elements. These are known as inline elements.
          Examples of inline elements are
@@ -61,15 +75,17 @@ are using.
          - <a>
          - <img>.
 
-     ![BlockAndInLineElements] (https://datashoptalk.com/wp-content/uploads/2018/02/block-v-inline.png)
 
+  ![BlockAndInLineElements] (https://datashoptalk.com/wp-content/uploads/2018/02/block-v-inline.png)
 
+  -------------------------------
 * ###  Grouping Text & Elements In a Block
         - The <div> element allows you to group a set of elements together in one block-level box.
         - The <span> element acts like an inline equivalent of the <div> element. 
         - The <iframe> element is like a little window that has been cut into your page — and in that window    you can see another page. 
            
 
+  -------------------------------
 
 * ###  Escape characters
       are used to include special characters in your pages such as <, >, and ©.
