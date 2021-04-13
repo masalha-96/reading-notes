@@ -7,7 +7,6 @@
 
 No | FileName
 ---|----------
-1 | [README](README.md)
-2 | [Read01](Read01.md)
-3 | [Read02](Read02.md)
+1 | [Read01](Read01.md)
+2 | [Read02](Read02.md)
 	
