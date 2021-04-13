@@ -19,19 +19,19 @@ Three| HTML5 Layout
 
 # ChapterOne :: `Structure`
 
-* ### <html> tag
+* ### html tag
      * The <html> tag represents the root of an HTML document.
   * The <html> tag is the container for all other HTML elements (except for the <!DOCTYPE> tag).
 
 
-* ### <body> tag
+* ### body tag
   * The <body> tag defines the document's body.
   * The <body> element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 
    * *Note*: There can only be `one` <body> element in an HTML document.
 
 
-* ### <head> tag
+* ### head tag
   * The <head> element is a container for metadata (data about data) and is placed between the <html> tag and the <body> tag.
    - Metadata is data about the HTML document. Metadata is not displayed.
    - Metadata typically define the document title, character set, styles, scripts, and other meta information.
@@ -39,11 +39,10 @@ Three| HTML5 Layout
 
 
 
-* ### <title> tag
-   - The <title> tag defines the title of the document. The title must be text-only, and it is shown in the browser's title bar or in the page's tab.
+* ### title tag
+   - The title tag defines the title of the document. The title must be text-only, and it is shown in the browser's title bar or in the page's tab.
 
-   - The <title> tag is required in HTML documents!
-
+   - The title tag is required in HTML documents!
 
 
 
@@ -60,7 +59,6 @@ Three| HTML5 Layout
 
   `for HTML5 we use <!DOCTYPE html>`
 
-  
   -------------------------------
 
 
