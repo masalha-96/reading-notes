@@ -90,10 +90,7 @@ Three| HTML5 Layout
   -------------------------------
 * ###  BLOCK And INLINE Elements
 
-    > #### BLOCK ELEMENTS
-
-* ###  BLOCK Elements
-
+> #### BLOCK ELEMENTS
 
          <h1> Sohaib Msalha </h1> 
 
@@ -107,10 +104,10 @@ Three| HTML5 Layout
         </ul> 
 
 
-  > #### INLINE ELEMENTS
+   > #### INLINE ELEMENTS
 
-  -------------------------------
-* ### INLINE Elements
+ 
+
          Some elements will always appear to continue on the same line as their 
          neighbouring elements. These are known as inline elements.
          Examples of inline elements are
