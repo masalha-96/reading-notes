@@ -4,7 +4,7 @@
 
  *and you can formatting words as:*
  1. **bold**  
- 2. *italic* 
+ 2. *italic*  
  3. adding images 
  * "![markdown img](https://cdn4.iconfinder.com/data/icons/logos-and-brands-2/471/205_Markdown_logo_logos-512.png)"
  4. adding links - [MyGitHub](https://github.com/masalha-96)
@@ -22,7 +22,6 @@
 * You can see any modification you make quickly.
 * Support for popular visual editors.
 * easily share the markdown content between different devices.
-
 
 
 
