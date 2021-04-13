@@ -38,7 +38,6 @@ Three| HTML5 Layout
    - Metadata is data about the HTML document. Metadata is not displayed.
 
 
-
 * ### title tag
    - The title tag defines the title of the document. The title must be text-only, and it is shown in the browser's title bar or in the page's tab.
 
