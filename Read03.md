@@ -27,7 +27,6 @@ Three| HTML5 Layout
 * ### body tag
   * The <body> tag defines the document's body.
   * The <body> element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
-
    * *Note*: There can only be `one` <body> element in an HTML document.
 
 
@@ -40,7 +39,6 @@ Three| HTML5 Layout
 
 * ### title tag
    - The title tag defines the title of the document. The title must be text-only, and it is shown in the browser's title bar or in the page's tab.
-
    - The title tag is required in HTML documents!
 
 
@@ -72,7 +70,6 @@ Three| HTML5 Layout
         the id attribute. It is used to
         uniquely identify that element
         from other elements on the page.
-
         for Ex; <p id="boldP">...<p>
 
         
@@ -80,7 +77,6 @@ Three| HTML5 Layout
 * ###  ClASS ATTRIBUTE
 
       Every HTML element can also carry a class attribute
-
         for Ex; <p class="important">...<p>
 
 
