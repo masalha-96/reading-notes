@@ -17,7 +17,7 @@ Three| HTML5 Layout
 
 
 
-# ChapterOne :: ``Structure``
+# ChapterOne :: `Structure`
 
 * ### <html> tag
      * The <html> tag represents the root of an HTML document.
@@ -51,7 +51,7 @@ Three| HTML5 Layout
 
   -------------------------------
 
-  # ChapterTwo :: ``Extra Markup``
+  # ChapterTwo :: `Extra Markup`
   
 * ### DOCTYPEs
   * DOCTYPES tell browsers which version of HTML you are using.
@@ -134,7 +134,7 @@ Three| HTML5 Layout
       are used to include special characters in your pages such as <, >, and ©.
       for Ex; © == &copy;
 
-  # ChapterThree :: ``HTML5 Layout``
+  # ChapterThree :: `HTML5 Layout`
 
   ![HTML-LAYOUT](https://i.ibb.co/RYdFLpK/TEMP.png)
 
@@ -147,5 +147,5 @@ Three| HTML5 Layout
 
 
 
-   &COPY; `Masalha96`
+   &copy; `Masalha96`
 
