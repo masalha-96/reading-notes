@@ -78,6 +78,8 @@ are using.
 
   ![BlockAndInLineElements](https://datashoptalk.com/wp-content/uploads/2018/02/block-v-inline.png)
 
+
+
   -------------------------------
 * ###  Grouping Text & Elements In a Block
         - The <div> element allows you to group a set of elements together in one block-level box.
