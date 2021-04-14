@@ -1,7 +1,7 @@
 
 
-# <> There are 3 parts to any web page <>
-![HTML AND CSS AND JS](https://miro.medium.com/max/6720/1*l4xICbIIYlz1OTymWCoUTw.jpeg)
+# <> The Main Components of Websites <>
+![HTML & CSS & JS](https://miro.medium.com/max/6720/1*l4xICbIIYlz1OTymWCoUTw.jpeg)
 1. CONTENT LAYER ( .html files ) 
 2. PRESENTATION LAYER ( .css files )
 3. BEHAVIOR LAYER ( js.files )
@@ -63,6 +63,7 @@
 
 
 
+
   * Internal JS 
 
   ![internal JS](https://i.ibb.co/g7JPgJX/TEMP04.png)
@@ -80,6 +81,7 @@
 -----------------------------
 -----------------------------
 -----------------------------
+
 
 
   [GitHubURL :)](https://github.com/masalha-96) 
