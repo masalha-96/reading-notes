@@ -4,10 +4,10 @@
 ## **1 :: What makes a computer, a computer**
 
  4 Main Parts of any Computer 
-1- INPUT 
-2- STORAGE 
-3- PROCESSING 
-4- OUTPUT 
+1. INPUT 
+2. STORAGE 
+3. PROCESSING 
+4. OUTPUT 
 
 ![img](https://i.ibb.co/5K6kGrY/TEMP.png)
 
