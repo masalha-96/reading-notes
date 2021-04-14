@@ -8,7 +8,7 @@
 # Table Of Content
 
 
-No. Chapter | Subject
+Chapter No. | Subject
 --------|--------- 
 One  | Structure
 Two| Extra Markup 
@@ -19,33 +19,43 @@ Three| HTML5 Layout
 
 # ChapterOne :: `Structure`
 
-* ### <html> tag
+* ### html tag
      * The <html> tag represents the root of an HTML document.
   * The <html> tag is the container for all other HTML elements (except for the <!DOCTYPE> tag).
 
 
-* ### <body> tag
+* ### body tag
   * The <body> tag defines the document's body.
   * The <body> element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+   * *Note*: There can only be **one** <body> element in an HTML document.
 
-   * *Note*: There can only be `one` <body> element in an HTML document.
 
-
-* ### <head> tag
+* ### head tag
   * The <head> element is a container for metadata (data about data) and is placed between the <html> tag and the <body> tag.
    - Metadata is data about the HTML document. Metadata is not displayed.
    - Metadata typically define the document title, character set, styles, scripts, and other meta information.
    - Metadata is data about the HTML document. Metadata is not displayed.
 
 
+* ### title tag
+   - The title tag defines the title of the document. The title must be text-only, and it is shown in the browser's title bar or in the page's tab.
+   - The title tag is required in HTML documents!
 
-* ### <title> tag
-   - The <title> tag defines the title of the document. The title must be text-only, and it is shown in the browser's title bar or in the page's tab.
 
+<<<<<<< HEAD
    - The <title> tag is required in HTML documents!
   -------------------------------
+=======
 
-  # ChapterTwo :: `Extra Markup`
+
+
+  -------------------------------
+
+
+
+>>>>>>> e61ed8c13ba3bfe48c74eecc6a1322c2f4c442ea
+
+# ChapterTwo :: `Extra Markup`
   
 * ### DOCTYPEs
   * DOCTYPES tell browsers which version of HTML you are using.
@@ -68,7 +78,6 @@ Three| HTML5 Layout
         the id attribute. It is used to
         uniquely identify that element
         from other elements on the page.
-
         for Ex; <p id="boldP">...<p>
 
         
@@ -76,7 +85,6 @@ Three| HTML5 Layout
 * ###  ClASS ATTRIBUTE
 
       Every HTML element can also carry a class attribute
-
         for Ex; <p class="important">...<p>
 
 
