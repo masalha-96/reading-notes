@@ -1,7 +1,7 @@
 # How Computers Work?
 
 
-** 1 :: What makes a computer, a computer **
+**1 :: What makes a computer, a computer**
 
  4 Main Parts of any Computer 
 1- INPUT 
@@ -14,7 +14,7 @@
 
 ---------------------------------------------
 
-** 2 :: Binary & Data **
+**2 :: Binary & Data**
 All operations within a computer can be represented as 0/1 or on/off 
 through the Binary language.
 
@@ -24,12 +24,12 @@ through the Binary language.
 ---------------------------------------------
 
 
-** 3 ::  Circuits and Logic **
+**3 ::  Circuits and Logic**
 Computer circuits are binary in concept, having only two possible states. They use on-off switches (transistors) that are electrically opened and closed in nanoseconds and picoseconds (billionths and trillionths of a second). A computer's speed of operation depends on the design of its circuitry.
 
 ---------------------------------------------
 
-** 4  CPU, Memory, Input & Output ** 
+**4  CPU, Memory, Input & Output** 
 - INPUT : 
    - CONVERTS PHYSICAL INPUT TO BINARY INFORMATION.
 - MEMORY : 
