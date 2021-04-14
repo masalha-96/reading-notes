@@ -29,7 +29,7 @@ Computer circuits are binary in concept, having only two possible states. They u
 
 ---------------------------------------------
 
-## **4  CPU, Memory, Input & Output** 
+## **4 :: CPU, Memory, Input & Output** 
 - INPUT : 
    - CONVERTS PHYSICAL INPUT TO BINARY INFORMATION.
 - MEMORY : 
