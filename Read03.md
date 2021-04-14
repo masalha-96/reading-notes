@@ -43,12 +43,6 @@ Three| HTML5 Layout
    - The <title> tag defines the title of the document. The title must be text-only, and it is shown in the browser's title bar or in the page's tab.
 
    - The <title> tag is required in HTML documents!
-
-
-
-
-
-
   -------------------------------
 
   # ChapterTwo :: `Extra Markup`
@@ -60,7 +54,6 @@ Three| HTML5 Layout
 
   `for HTML5 we use <!DOCTYPE html>`
 
-  
   -------------------------------
 
 
