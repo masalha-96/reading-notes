@@ -40,7 +40,7 @@ extension, so save this file with the name add-content . js
 -----------------------------
 **LINKING TO A JAVASCRIPT FILE FROM AN HTML PAGE**
 
-* The HTML <script> element is used in HTML pages  to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file).
+* The HTML *script* element is used in HTML pages  to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file).
 
 
 
