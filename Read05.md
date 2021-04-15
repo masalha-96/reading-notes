@@ -104,16 +104,16 @@
  * The **while loop** has the following syntax:
 
    >  while (condition) {
-      // code block to be executed 
-      } 
+   >  // code block to be executed 
+   > } 
 
    ----
 
   
  * The **do/while loop** has the following syntax:
  >  do {
-  // code block to be executed
-} while (condition); 
+ > // code block to be executed
+ > } while (condition); 
 
 
 ---
