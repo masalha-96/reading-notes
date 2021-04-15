@@ -72,4 +72,4 @@
 
 * The first time the loop is run, the variable i (teh counter) is assigned a value of zero.
 
-(i'll finsish it later).
+** (i'll finsish it later). **
