@@ -17,11 +17,9 @@ No | FileName
 3 | [Read03](Read03.md)
 4 | [Read04a](Read04a.md)
 5 | [Read04b](Read04b.md)
-<<<<<<< HEAD
 5 | [Read05](Read05.md)
-=======
 6 | [Read05](Read05.md)
->>>>>>> 2762320a3f054f03d881fdbc9459c07b7305ca6e
+
 
 	
 
