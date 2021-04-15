@@ -58,7 +58,7 @@
 
 ---
 
-* **LOGICAL OR (||)**
+* **LOGICAL OR (| |)**
 > **The logical OR (||) operator (logical disjunction) for a set of operands is true if and only if one or more of its operands is true. It is typically used with Boolean (logical) values. When it is, it returns a Boolean value.**
 
 ----
