@@ -16,8 +16,7 @@ that down into smaller steps.
 3: CODE EACH STEP
 
 ----
-
-- Expressions 
+## Expressions 
 An expression evaluates into (results in) a single value. Broadly speaking
 there are two types of expressions.
 
@@ -27,7 +26,7 @@ for Ex :: var color = 'white'; :: The value of color is white
 for Ex :: var Area = 6 * 3; :: The value of area is 18
 
 
-- OPERATORS
+## OPERATORS
 1. ASSIGNMENT OPERATORS 
 2. COMPARISON OPERATORS
 3. ARITHMETIC OPERATORS
