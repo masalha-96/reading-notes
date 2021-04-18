@@ -1,4 +1,4 @@
-# Programming With Js 
+# Programming With JS
 
 * What Is a Script
     * a Script Is a Series of Instructions
@@ -14,11 +14,14 @@
 [2]  Design the Script
 [3]  Code Each Step
 
+<<<<<<< HEAD
 
 ----
 ## Expressions 
 An expression evaluates into (results in) a single value. Broadly speaking
 there are two types of expressions.
+=======
+>>>>>>> 2334ca32295580e32d1829a82d70dc09dd9c7f87
 
 
 --- 
@@ -27,6 +30,7 @@ there are two types of expressions.
 
 
 
+<<<<<<< HEAD
 ## OPERATORS
 1. ASSIGNMENT OPERATORS 
 2. COMPARISON OPERATORS
@@ -34,18 +38,26 @@ there are two types of expressions.
 4. LOGICAL OPERATORS
 5. STRING OPERATOR
 
+=======
+>>>>>>> 2334ca32295580e32d1829a82d70dc09dd9c7f87
 
 ## Operators
+
 ### 1. Assignment Operators
-<!> Used to Assign a Value of the Right Operand to Its Left Operand in Js Using These Assignment Operators.
+**<!> Used to Assign a Value of the Right Operand to Its Left Operand in Js Using These Assignment Operators.**
 
 ![ Assignment Operators](https://www.tutsmake.com/wp-content/uploads/2020/05/JavaScript-Assignment-Operators.jpeg)
 
 ---
 
 ### 2. Comparison Operators
+<<<<<<< HEAD
 ** <!>  Used to Compare Variables and Take Some Action Based on the Result of That Comparison. **
 ** <!> the Javascript Comparison Operators Compare Two Operands Value and Return the Result in Boolean ( True or False). **
+=======
+**<!>  Used to Compare Variables and Take Some Action Based on the Result of That Comparison.**
+**<!> the Javascript Comparison Operators Compare Two Operands Value and Return the Result in Boolean ( True or False).**
+>>>>>>> 2334ca32295580e32d1829a82d70dc09dd9c7f87
 
 ![ Comparison Operators](https://www.tutsmake.com/wp-content/uploads/2020/05/Comparison-Operators-JavaScript.jpeg)
 
@@ -53,20 +65,28 @@ there are two types of expressions.
 
 
 ### 3. Arithmetic Operators
-** <!> Arithmetic Operators Are Used to Performing Mathematical Operations Between Numeric Operands. **
+**<!> Arithmetic Operators Are Used to Performing Mathematical Operations Between Numeric Operands.**
 
 ![ Arithmetic Operators](https://www.tutsmake.com/wp-content/uploads/2020/05/JavaScript-Arithmetic-operators.jpeg)
  
 ---
 
 ### 4. Logical Operators
+<<<<<<< HEAD
 ** <!> Used to Compare Variables and Take Some Action Based on the Result of That Comparison. **
+=======
+**<!> Used to Compare Variables and Take Some Action Based on the Result of That Comparison.**
+>>>>>>> 2334ca32295580e32d1829a82d70dc09dd9c7f87
 ![ Logical Operators](https://www.tutsmake.com/wp-content/uploads/2020/05/JavaScript-Logical-Operators.jpeg)
 
 ---
 
 ### 5. String Operator
+<<<<<<< HEAD
    ** <!> The + Operator Can Also Be Used to Add (Concatenate) Strings.**
+=======
+   **<!> The + Operator Can Also Be Used to Add (Concatenate) Strings.**
+>>>>>>> 2334ca32295580e32d1829a82d70dc09dd9c7f87
 
 
 
@@ -78,7 +98,7 @@ there are two types of expressions.
 
 
 ## What Is a Function?
-** <!> Functions Let You Group a Series of Statements Together to Perform a Specific Task ( One Code X Many Time. **
+**<!> Functions Let You Group a Series of Statements Together to Perform a Specific Task ( One Code X Many Time.**
 
 ---
 ### [1] Creat a Function 
