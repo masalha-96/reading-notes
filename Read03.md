@@ -42,10 +42,10 @@ Three| HTML5 Layout
    - The title tag is required in HTML documents!
 
 
-<<<<<<< HEAD
+
    - The <title> tag is required in HTML documents!
   -------------------------------
-=======
+
 
 
 
@@ -53,7 +53,6 @@ Three| HTML5 Layout
 
 
 
->>>>>>> e61ed8c13ba3bfe48c74eecc6a1322c2f4c442ea
 
 # ChapterTwo :: `Extra Markup`
   
@@ -74,10 +73,7 @@ Three| HTML5 Layout
   -------------------------------
 * ###  ID ATTRIBUTE
 
-        Every HTML element can carry
-        the id attribute. It is used to
-        uniquely identify that element
-        from other elements on the page.
+        Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page.
         for Ex; <p id="boldP">...<p>
 
         
