@@ -1,4 +1,4 @@
-# Programming With Js 
+# Programming With JS
 
 * What Is a Script
     * a Script Is a Series of Instructions
