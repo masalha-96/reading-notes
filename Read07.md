@@ -61,6 +61,12 @@ Also, the following values define equal color: rgb(0,0,255) and rgb(0%,0%,100%).
 
 
 
+-----
+
+[***colorhunt***](https://colorhunt.co/)
+
+
+-----
 
 *&copy; Masalha96*
   [GitHub account](https://github.com/masalha-96)
