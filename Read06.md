@@ -15,11 +15,6 @@
 [3]  Code Each Step
 
 
-----
-## Expressions 
-An expression evaluates into (results in) a single value. Broadly speaking
-there are two types of expressions.
-
 
 --- 
 ---
