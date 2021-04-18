@@ -23,14 +23,9 @@
 
 
 ## OPERATORS
-1. ASSIGNMENT OPERATORS 
-2. COMPARISON OPERATORS
-3. ARITHMETIC OPERATORS
-4. LOGICAL OPERATORS
-5. STRING OPERATOR
-
 
 ## Operators
+
 ### 1. Assignment Operators
 **<!> Used to Assign a Value of the Right Operand to Its Left Operand in Js Using These Assignment Operators.**
 
