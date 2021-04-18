@@ -15,6 +15,11 @@
 [3]  Code Each Step
 
 
+----
+## Expressions 
+An expression evaluates into (results in) a single value. Broadly speaking
+there are two types of expressions.
+
 
 --- 
 ---
@@ -22,19 +27,27 @@
 
 
 
+## OPERATORS
+1. ASSIGNMENT OPERATORS 
+2. COMPARISON OPERATORS
+3. ARITHMETIC OPERATORS
+4. LOGICAL OPERATORS
+5. STRING OPERATOR
+
+
 ## Operators
 ### 1. Assignment Operators
 <!> Used to Assign a Value of the Right Operand to Its Left Operand in Js Using These Assignment Operators.
 
-![ Assignment Operators](Https://www.tutsmake.com/wp-content/uploads/2020/05/javascript-assignment-operators.jpeg)
+![ Assignment Operators](https://www.tutsmake.com/wp-content/uploads/2020/05/JavaScript-Assignment-Operators.jpeg)
 
 ---
 
 ### 2. Comparison Operators
-** <!>  Used to Compare Variables and Take Some Action Based on the Result of That Comparison.
-<!> the Javascript Comparison Operators Compare Two Operands Value and Return the Result in Boolean ( True or False). **
+** <!>  Used to Compare Variables and Take Some Action Based on the Result of That Comparison. **
+** <!> the Javascript Comparison Operators Compare Two Operands Value and Return the Result in Boolean ( True or False). **
 
-![ Comparison Operators](Https://www.tutsmake.com/wp-content/uploads/2020/05/comparison-operators-javascript.jpeg)
+![ Comparison Operators](https://www.tutsmake.com/wp-content/uploads/2020/05/Comparison-Operators-JavaScript.jpeg)
 
 ---
 
@@ -42,18 +55,18 @@
 ### 3. Arithmetic Operators
 ** <!> Arithmetic Operators Are Used to Performing Mathematical Operations Between Numeric Operands. **
 
-![ Arithmetic Operators](Https://www.tutsmake.com/wp-content/uploads/2020/05/javascript-arithmetic-operators.jpeg)
+![ Arithmetic Operators](https://www.tutsmake.com/wp-content/uploads/2020/05/JavaScript-Arithmetic-operators.jpeg)
  
 ---
 
 ### 4. Logical Operators
 ** <!> Used to Compare Variables and Take Some Action Based on the Result of That Comparison. **
-![ Logical Operators](Https://www.tutsmake.com/wp-content/uploads/2020/05/javascript-logical-operators.jpeg)
+![ Logical Operators](https://www.tutsmake.com/wp-content/uploads/2020/05/JavaScript-Logical-Operators.jpeg)
 
 ---
 
 ### 5. String Operator
-   ** <!> the + Operator Can Also Be Used to Add (Concatenate) Strings.**
+   ** <!> The + Operator Can Also Be Used to Add (Concatenate) Strings.**
 
 
 
@@ -96,6 +109,17 @@ Simply You Can Call It Like This - **functionName();**
   * Often This Type Contains Input by the User / or Displaying Something on the Screen.
 * with **parameters** for Ex: calcArea**(width,height)**;
 * with **arguments** for Ex: getArea**(12,8);**
+
+
+
+------
+------
+------
+
+
+ [*GitHub Account*](https://github.com/masalha-96)
+&copy; *Masalha96*         
+
 
 
 
