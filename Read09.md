@@ -30,7 +30,7 @@ Linux has a graphical user interface and it works pretty much like the GUI's on 
 
 # <2> Basic Navigation!  
 
-In this section I have summarized the three commands that we use to navigate the file path.
+## The three commands that we use to navigate the file path.
 
 **1.	pwd**
 Print Working Directory - ie. Where are we currently.
@@ -61,7 +61,7 @@ Syntax :: **cd [location]**
  - Escape Characters :   
     -	Another method is to use what is called an escape character, which is a backslash ( \ ). What the backslash does is escape (or nullify) the special meaning of the next character.
 
-In this section, I have summarized the two commands you use to work with files :
+## The two commands you use to work with files :
 
 <1>	 **file**
 
