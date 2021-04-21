@@ -12,15 +12,15 @@
 
 No | FileName
 ---|----------
-1 | [Read01](Read01.md)
-2 | [Read02](Read02.md)
-3 | [Read03](Read03.md)
-4 | [Read04a](Read04a.md)
-5 | [Read04b](Read04b.md)
-6 | [Read05](Read05.md)
-7 | [Read06](Read06.md)
-8 | [Read07](Read07.md)
-9 | [Read09](Read09.md)
+1 | [Markdown](Read01.md)
+2 | [An Intro to Git](Read02.md)
+3 | [HTML](Read03.md)
+4 | [The Main Components of Websites](Read04a.md)
+5 | [How Computers Work](Read04b.md)
+6 | [OPERATORS IN JS](Read05.md)
+7 | [PROGRAMMING WITH JS](Read06.md)
+8 | [Colors in CSS](Read07.md)
+9 | [CLI](Read09.md)
 
 
 
