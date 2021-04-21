@@ -1,34 +1,77 @@
-## The Command Line
+# The Command Line
+## <1>  INTRO TO CLI
 
-The command line is a text interface for your computer. It’s a program that takes in commands, which it passes on to the computer’s operating system to run.
-From the command line, you can navigate through files and folders on your computer, just as you would with Windows Explorer on Windows or Finder on Mac OS. The difference is that the command line is fully text-based.
-Here’s an appendix of commonly used commands.
-
-**Commands :**
-
-cd
-$* cd Desktop/*
-
-cd takes a directory name as an argument, and switches into that directory.
+Linux has a graphical user interface and it works pretty much like the GUI's on other systems that you are familiar with such as Windows and OSX.
 
 
-cd ..
-*$ cd ..*
+## So, what are they exactly?
+* 	A command line, or terminal, is a text-based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 
-To move up one directory, use cd ... Here, cd .. navigates up from jan/memory/ to jan/
+* The command line typically presents you with a prompt. As you type, it will be displayed after the prompt. Most of the time you will be issuing commands.
 
-
-
-
-## Basic Navigation!
+* The terminal may seem daunting but don't fret. Linux is full of shortcuts to help make your life easier. You'll be introduced to several of them throughout this tutorial. Take note of them as not only do they make your life easier, they often also save you from making silly mistakes such as typos.
 
 
-In this section, we'll learn the basics of moving around the system. Many tasks rely on being able to get to, or reference the correct location in the system. As such, this stuff really forms the foundation of being able to work effectively in Linux. Make sure you understand it well.
+## Basic Windows CLI Commands
+![CLI Windows COMMANDS](https://i.ibb.co/Jv5w47x/temp201.png)
 
-The first command we are going to learn is pwd which stands for Print Working Directory. (You'll find that a lot of commands in linux are named as an abbreviation of a word or words describing them. This makes it easier to remember them.) The command does just that. It tells you what your current or present working directory is. Give it a try now.
+## DOS Commands Help
+-	You can display all available commands with the **help** command:
 
+![HELP COMMAND](https://i.ibb.co/VCpy9hj/temp2012.png)
 
-i'll finish it after eftar enshalla 
+-	For more information on a specific command, type **help + command-name**
+
+![CLI COMMANDS](https://i.ibb.co/YXfDmYj/temp2013.png)
 
 
 
+---
+
+# <2> Basic Navigation!  
+
+In this section I have summarized the three commands that we use to navigate the file path.
+
+**1.	pwd**
+Print Working Directory - ie. Where are we currently.
+Syntax :: **pwd**
+
+**2.	ls**
+List the contents of a directory. 
+Syntax :: **Is [options][location]**
+
+**3.	cd**
+Change Directories - ie. move to another directory.
+Syntax :: **cd [location]**
+
+
+---
+
+
+# <3> More About Files!  
+- Everything is a File in Linux.
+- Linux is an Extensionless System.
+- Linux is Case Sensitive.
+- Spaces in names  :
+    -	Spaces in file and directory names are perfectly valid but we need to be a little careful with them.
+
+    -	space on the command line is how we seperate items. They are how we know what is the program name and can identify each command line argument.
+
+
+ - Escape Characters :   
+    -	Another method is to use what is called an escape character, which is a backslash ( \ ). What the backslash does is escape (or nullify) the special meaning of the next character.
+
+In this section, I have summarized the two commands you use to work with files :
+
+<1>	 **file**
+
+obtain information about what type of file a file or directory is.
+
+<2>	**ls -a**
+
+List the contents of a directory, **including hidden files**.
+
+---
+---
+
+[GitHub URL](https://github.com/masalha-96)
