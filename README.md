@@ -22,6 +22,9 @@ No | FileName
 8 | [Colors in CSS](Read07.md)
 9 | [CLI](Read09.md)
 
+---
+---
+
 ## Code 201 Reading Notes
 ### Table of Contents 
 
