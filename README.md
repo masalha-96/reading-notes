@@ -8,7 +8,7 @@
 
 
 ## :: Code 102 ::
-### Table of Contents (102 Course)
+### Table of Contents 
 
 No | FileName
 ---|----------
