@@ -131,12 +131,12 @@ are not desired.
 
 
 ### Expressions & Operators:
-#### EXPRESSIONS :
+#### Expressions :
    * there are two types of expressions:
       1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE ` var name="Sohaib" `
       2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE ` var area =5*2 `. the value that stored in area var is 10 .
 
-#### OPERATORS :
+#### Operators :
    *  ASSIGNMENT OPERATORS ` var name = "Sohaib" ; ` here we assgin the value to the variable.`   
    *  STRING OPERATORS ` var fullName ='Sohaib'+'Masalha' ;` Also MIXING NUMBERS AND STRINGS equal STRING ` '5' + 5 = 55 ` , the result '55' is string.
    *  COMPARISON OPERATORS ` var cond = 3 > 5; `
