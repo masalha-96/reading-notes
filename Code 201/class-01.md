@@ -18,7 +18,7 @@
 
 ---
 
-### HTML Chapter 1 (Structure) :
+### HTML Chapter 1 (Structure) ::
 * HTML pages contain a set or group of tags , this tags will determine the Structure and content of your website.
 * HTML refer to Hyper Text Markup Language .
 * HTML contain a  tags , each tag has a different usage that called a elements.
@@ -39,7 +39,7 @@
 ---
 
 
-### HTML Chapter 8 (Extra Markup) :
+### HTML Chapter 8 (Extra Markup) ::
 1. `<! DOCTYPE ......>` to tell a browser which version of HTML the page is using.
 3. `<!-- -->` make a comment are not visible to users in the main browser window in HTML `<!-- comment goes here -->`.
 3. **id** attribute used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore (not a number or any other character).
@@ -59,7 +59,7 @@ are not desired.
 ---
 
 
-### HTML Chapter 17 (HTML5 Layout) :
+### HTML Chapter 17 (HTML5 Layout) ::
 
 ![HTML5 Layout](https://i.ibb.co/K25SYvj/Untitled.png)
 
@@ -79,21 +79,21 @@ are not desired.
 ---
 
 
-### HTML Chapter 18 (Process & Design):
+### HTML Chapter 18 (Process & Design) ::
 * Every website should be designed for the **target** audience , you should determine **who** people will visit your website and **why** and **what** they need , and ask yourself set of questions to make determine the target more easily.
 
-* should determine the **sitemap** to make the designing step more easily.that allow you to plan the structure of a site
+* Should determine the **sitemap** to make the designing step more easily.that allow you to plan the structure of a site
 ![sitemap img](https://user-images.githubusercontent.com/82366682/115978853-14a00280-a58b-11eb-99eb-c60482d66b1f.png)
 
 * **WireFrames** A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
 
  ![WireFrames](https://miro.medium.com/max/2625/1*WCdhc30fzeFbKwPlYj2Z4A.jpeg)
 
- * **manage the content to** Organizing and prioritizing information on a page helps users understand its importance and what order to read it in.
+ * **Manage the content to** Organizing and prioritizing information on a page helps users understand its importance and what order to read it in.
 
  * **Visual hierarchy**  You can use contrast (size, color ,style) to create a visual hierarchy that gets across your key message and helps users find what they are looking for.
 
- * **grouping and Similarity** organize visual elements into groups (Proximity,Closure,White Sp ace,Continuance,color,Borders)
+ * **Grouping and Similarity** organize visual elements into groups (Proximity,Closure,White Sp ace,Continuance,color,Borders)
 
  * **Designing Navigation** helps people find where they want to go and understand what your site is about and how it is organized (*Concise,Clear,Selective,Context,Interactive,Consistent*)
 
@@ -106,17 +106,17 @@ are not desired.
 ## JavaScript Book 
 ### Introduction :
 #### why we use JAvaScript :
-* allows you to **ACCESS** content .
-* allows you to **MODIFY** content .
-* **program resuls** while you writing a steps , the browser will following and executing the steps.
-* **react** to to events triggered by the user or browser(when you press to any key from keyboard , clicked the mouse , double clicked ,.. all of them called event ) .
+* Allows you to **ACCESS** content .
+* Allows you to **MODIFY** content .
+* **program results** while you writing a steps , the browser will following and executing the steps.
+* **React** to to events triggered by the user or browser(when you press to any key from keyboard , clicked the mouse , double clicked ,.. all of them called event ) .
 
 
-### chapter 1 (The ABC of Programming) :
+### Chapter 1 (The ABC of Programming) ::
 #### WRITING A SCRIPT :
-* the fist step is DEFINE the goal then DESIGN then CODE EACH STEP .
+* The fist step is DEFINE the goal then DESIGN then CODE EACH STEP .
 
-* to write a clear code you should learn :
+* To write a clear code you should learn :
    1. **Vocabulary**:The words that computers understand.
    2. **Syntax**: How you put those words together to create instructions computers can follow.
 
@@ -130,20 +130,20 @@ are not desired.
 4. If the user has not entered anything, a message will appear telling them to enter a name.
 
 
-#### Expressions & Operators:
-##### EXPRESSIONS :
+### Expressions & Operators:
+### EXPRESSIONS :
    * there are two types of expressions:
       1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE ` var name="aya" `
       2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE ` var area =5*2 `. the value that stored in area var is 10 .
 
-##### OPERATORS :
+#### OPERATORS :
    *  ASSIGNMENT OPERATORS ` var name = "Sohaib" ; ` here we assgin the value to the variable.
    *  ARITHMETIC OPERATORS ` var area = 3 * 2; `   
    *  STRING OPERATORS ` var fullName ='Sohaib'+'Masalha' ;` Also MIXING NUMBERS AND STRINGS equal STRING ` '5' + 5 = 55 ` , the result '55' is string.
    *  COMPARISON OPERATORS ` var cond = 3 > 5; `
    *  LOGICAL OPERATORS `var cond = (5 > 3) && (2 < 4);`
 
-##### Arithmetic  operators in JavaScript:
+#### Arithmetic  operators in JavaScript:
 ![Arithmetic Operators img](https://user-images.githubusercontent.com/82366682/115979061-4f566a80-a58c-11eb-9a60-fe5ba7c8c2a7.png)
 
 * **ORDER OF EXECUTION :**
@@ -152,7 +152,7 @@ are not desired.
      3. addition or subtraction.
 * Arrays are special types of variables that store more than one piece of related information.
 
-##### Functions :
+#### Functions :
    * function indicate to set of statements that written for acheive specific gaol.
    * you can reuse the function.
    * every function contain **NAME** should describe the task it is performing. when you ask it to perform its task, it is known as ***calling*** the function.
