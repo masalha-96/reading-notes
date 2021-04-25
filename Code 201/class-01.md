@@ -9,13 +9,6 @@
 * **Screen readers**:are programs that read out the contents of a computer screen to a user.
 
 
-* You can be anywhere in the world and sent a request to open any website , the browser in your region will connect to the **Domain Name System (DNS)** to the website region to allow you visit the website.
-
-     1. When you connect to the web, you do so via an Internet Service Provider (ISP). You type a domain name or  eb address into your browser to visit a site; for example: google.com, bbc.co.uk, microsoft.com.
-     2. Your computer contacts a network of servers called Domain Name System (DNS) servers. They tell your computer the IP address associated with the requested domain name. Every device connected to the web has a unique IP address; it is like the id for that computer.
-     3. The IP address that the DNS server returns to your computer allows your browser to contact the webserver that hosts the website you requested.
-     4. The web server then sends the page you requested back to your web browser. 
-
 ---
 
 ### HTML Chapter 1 (Structure) ::
@@ -28,11 +21,7 @@
      1. The opening `<html>` tag indicates that anything between it and a closing `</html>` tag is HTML code.
      2. `<head> .. </head>` contain a meta data and the information that will not show in website .
      3. The `<body>` tag indicates that anything between it and the closing `</body>` tag should be shown inside the main browser window.
-
-
 * elements usually have a opening tag and closing tag (for example :` <p>   </p>`), and some element ( for example : `<img>`) don't have a closing tag.
-
-
 * Attributes provide additional information about the contents of an element.
 * each attribute contain a Attribute_name and value `<p id="id1"> </p>` , id is a Attributes_name and id1 the value.
 
