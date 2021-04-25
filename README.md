@@ -34,7 +34,7 @@ No | FileName
 
 No | FileName
 ---|----------
-1 | [ Introductory HTML and JavaScript](class-01.md)
+1 | [ Introductory HTML and JavaScript](https://masalha-96.github.io/reading-notes/Code%20201/class-01)
 
 
 
