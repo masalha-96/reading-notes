@@ -3,13 +3,13 @@
 ## HTML Book
 ### Introduction 
 #### How People Access the Web :
-* **web browser** :Software allow you to visit and access the websites (safari,google chroom,opera ,...)
+* **Web browser** :Software allow you to visit and access the websites (safari,google chroom,opera ,...)
 * **Web Servers** :Are special computers connected to the internet, when you visit the website, you sent a request to this machine to visit the website.
 * **Devices** : we have a diiferent devices and connections.
 * **Screen readers**:are programs that read out the contents of a computer screen to a user.
 
 
-* you can be anywhere in the world and sent a request to open any website , the browser in your region will connect to the **Domain Name System (DSN)** to the website region to allow you visit the website.
+* You can be anywhere in the world and sent a request to open any website , the browser in your region will connect to the **Domain Name System (DSN)** to the website region to allow you visit the website.
 
      1. When you connect to the web, you do so via an Internet Service Provider (ISP). You type a domain name or  eb address into your browser to visit a site; for example: google.com, bbc.co.uk, microsoft.com.
      2. Your computer contacts a network of servers called Domain Name System (DNS) servers. They tell your computer the IP address associated with the requested domain name. Every device connected to the web has a unique IP address; it is like the id for that computer.
@@ -52,6 +52,7 @@ appearance of the content of these elements using CSS.
 are not desired.
 
 9. special symbols 
+10. 
 ![special symbols](https://user-images.githubusercontent.com/82366682/115978954-9001b400-a58b-11eb-905d-4ef88f0d98c1.png)
 
 
