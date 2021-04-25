@@ -16,6 +16,7 @@
      3. The IP address that the DNS server returns to your computer allows your browser to contact the webserver that hosts the website you requested.
      4. The web server then sends the page you requested back to your web browser. 
 
+---
 
 ### HTML Chapter 1 (Structure) :
 * HTML pages contain a set or group of tags , this tags will determine the Structure and content of your website.
@@ -35,6 +36,8 @@
 * Attributes provide additional information about the contents of an element.
 * each attribute contain a Attribute_name and value `<p id="id1"> </p>` , id is a Attributes_name and id1 the value.
 
+---
+
 
 ### HTML Chapter 8 (Extra Markup) :
 1. `<! DOCTYPE ......>` to tell a browser which version of HTML the page is using.
@@ -52,6 +55,9 @@ are not desired.
 ![special symbols](https://user-images.githubusercontent.com/82366682/115978954-9001b400-a58b-11eb-905d-4ef88f0d98c1.png)
 
 
+---
+
+
 ### HTML Chapter 17 (HTML5 Layout) :
 * HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them.
      1. `<header>`,`<footer>`The main header or footer that appears at the top or bottom of every page on the site.
@@ -66,6 +72,7 @@ are not desired.
 
 * Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
 
+---
 
 
 ### HTML Chapter 18 (Process & Design):
@@ -86,6 +93,10 @@ are not desired.
 
  * **Designing Navigation** helps people find where they want to go and understand what your site is about and how it is organized (*Concise,Clear,Selective,Context,Interactive,Consistent*)
 
+
+---
+---
+---
 
 
 ## JavaScript Book 
