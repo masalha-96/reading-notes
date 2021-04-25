@@ -141,14 +141,14 @@ are not desired.
    *  STRING OPERATORS ` var fullName ='Sohaib'+'Masalha' ;` Also MIXING NUMBERS AND STRINGS equal STRING ` '5' + 5 = 55 ` , the result '55' is string.
    *  COMPARISON OPERATORS ` var cond = 3 > 5; `
    *  LOGICAL OPERATORS `var cond = (5 > 3) && (2 < 4);`
-   *  ARITHMETIC OPERATORS ` var area = 3 * 2; 
-![Arithmetic Operators img](https://user-images.githubusercontent.com/82366682/115979061-4f566a80-a58c-11eb-9a60-fe5ba7c8c2a7.png)
+   *  ARITHMETIC OPERATORS ` var area = 3 * 2;`
+
 
 * **ORDER OF EXECUTION :**
      1. parentheses.
      2. Multiplication and division .
      3. addition or subtraction.
-* Arrays are special types of variables that store more than one piece of related information.
+
 
 #### Functions :
    * function indicate to set of statements that written for acheive specific gaol.
@@ -156,6 +156,9 @@ are not desired.
    * every function contain **NAME** should describe the task it is performing. when you ask it to perform its task, it is known as ***calling*** the function.
    * Some functions need to provided with information in order to achieve a given task. this information called ***parameters***
    * When you write a function and you expect it to provide you with an answer, the response is known as a ***return value***.
+
+
+[GitHub Profile](https://github.com/masalha-96)
    
 
 
