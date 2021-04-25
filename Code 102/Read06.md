@@ -14,14 +14,13 @@
 [2]  Design the Script
 [3]  Code Each Step
 
-<<<<<<< HEAD
+
 
 ----
 ## Expressions 
 An expression evaluates into (results in) a single value. Broadly speaking
 there are two types of expressions.
-=======
->>>>>>> 2334ca32295580e32d1829a82d70dc09dd9c7f87
+
 
 
 --- 
@@ -38,8 +37,7 @@ there are two types of expressions.
 4. LOGICAL OPERATORS
 5. STRING OPERATOR
 
-=======
->>>>>>> 2334ca32295580e32d1829a82d70dc09dd9c7f87
+
 
 ## Operators
 
@@ -76,17 +74,17 @@ there are two types of expressions.
 ** <!> Used to Compare Variables and Take Some Action Based on the Result of That Comparison. **
 =======
 **<!> Used to Compare Variables and Take Some Action Based on the Result of That Comparison.**
->>>>>>> 2334ca32295580e32d1829a82d70dc09dd9c7f87
+
 ![ Logical Operators](https://www.tutsmake.com/wp-content/uploads/2020/05/JavaScript-Logical-Operators.jpeg)
 
 ---
 
 ### 5. String Operator
-<<<<<<< HEAD
+
    ** <!> The + Operator Can Also Be Used to Add (Concatenate) Strings.**
-=======
+
    **<!> The + Operator Can Also Be Used to Add (Concatenate) Strings.**
->>>>>>> 2334ca32295580e32d1829a82d70dc09dd9c7f87
+
 
 
 
