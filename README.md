@@ -35,7 +35,7 @@ Read09      |          CLI  | [CLI](https://masalha-96.github.io/reading-notes/C
 Read NO      | Subject   | Link
 -------------|---------- |---------
 class-01      | Introductory HTML and JavaScript           |  [ Introductory HTML and JavaScript](https://masalha-96.github.io/reading-notes/Code%20201/class-01)
-class-02      |          
+class-02      |  HTML Text, CSS Intro, and Basic JS Instructions| [HTML Text, CSS Intro, and Basic JS Instructions](https://masalha-96.github.io/reading-notes/Code%20201/class-02)        
 class-03      |          
 class-04      |          
 class-05      |          
