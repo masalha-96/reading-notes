@@ -136,7 +136,7 @@ are not desired.
       1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE ` var name="Sohaib" `
       2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE ` var area =5*2 `. the value that stored in area var is 10 .
 
-##### OPERATORS :
+#### OPERATORS :
    *  ASSIGNMENT OPERATORS ` var name = "Sohaib" ; ` here we assgin the value to the variable.`   
    *  STRING OPERATORS ` var fullName ='Sohaib'+'Masalha' ;` Also MIXING NUMBERS AND STRINGS equal STRING ` '5' + 5 = 55 ` , the result '55' is string.
    *  COMPARISON OPERATORS ` var cond = 3 > 5; `
@@ -144,10 +144,7 @@ are not desired.
    *  ARITHMETIC OPERATORS ` var area = 3 * 2;`
 
 
-* **ORDER OF EXECUTION :**
-     1. parentheses.
-     2. Multiplication and division .
-     3. addition or subtraction.
+
 
 
 #### Functions :
