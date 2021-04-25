@@ -18,8 +18,8 @@ Read02       |       An Intro to Git    | [An Intro to Git](https://masalha-96.g
 Read03       |    HTML       | [HTML](https://masalha-96.github.io/reading-notes/Code%20102/Read03)
 Read04a      |      The Main Components of Websites     | [The Main Components of Websites](https://masalha-96.github.io/reading-notes/Code%20102/Read04a)
 Read04b      |      How Computers Work     | [How Computers Work](https://masalha-96.github.io/reading-notes/Code%20102/Read04b)
-Read05       |     OPERATORS IN JS      | [OPERATORS IN JS](https://masalha-96.github.io/reading-notes/Code%20102/Read05)
-Read06       |      [PROGRAMMING WITH JS     | [PROGRAMMING WITH JS](https://masalha-96.github.io/reading-notes/Code%20102/Read06)
+Read05       |      Operators in JS      | [Operators in JS ](https://masalha-96.github.io/reading-notes/Code%20102/Read05)
+Read06       |      Programming with JS     | [Programming with JS](https://masalha-96.github.io/reading-notes/Code%20102/Read06)
 Read07       |     Colors in CSS      | [Colors in CSS](https://masalha-96.github.io/reading-notes/Code%20102/Read07)
 Read09      |          CLI  | [CLI](https://masalha-96.github.io/reading-notes/Code%20102/Read09)
 
