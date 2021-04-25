@@ -123,7 +123,7 @@ are not desired.
 * what might have gone wrong - programmers call **debugging.**
 * Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
 
-#### What happens when you entered your name inside imput feild and press to btn (ok)?
+#### What happens when you entered your name inside input feild and press to btn (ok)?
 1. The script is triggered when the button is clicked.
 2. It collects the name entered into the form field.
 3. It checks that the user has entered a value.
@@ -133,7 +133,7 @@ are not desired.
 ### Expressions & Operators:
 #### EXPRESSIONS :
    * there are two types of expressions:
-      1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE ` var name="aya" `
+      1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE ` var name="Sohaib" `
       2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE ` var area =5*2 `. the value that stored in area var is 10 .
 
 ##### OPERATORS :
