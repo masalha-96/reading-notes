@@ -59,6 +59,9 @@ are not desired.
 
 
 ### HTML Chapter 17 (HTML5 Layout) :
+
+![HTML5 Layout](https://i.ibb.co/K25SYvj/Untitled.png)
+
 * HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them.
      1. `<header>`,`<footer>`The main header or footer that appears at the top or bottom of every page on the site.
      2. `<nav>` navigation bar contain the main links (pages) on your website
