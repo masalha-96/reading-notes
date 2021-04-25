@@ -12,7 +12,7 @@
 
 Read NO      | Subject   | Link
 -------------|---------- |---------
-Read00       | Growth Mindset           | [GrowthMindset](https://masalha-96.github.io/reading-notes/Code%20102/GrowthMindset)
+Read0        | Growth Mindset           | [GrowthMindset](https://masalha-96.github.io/reading-notes/Code%20102/GrowthMindset)
 Read01       | Markdown          | [Markdown](https://masalha-96.github.io/reading-notes/Code%20102/Read01)
 Read02       |       An Intro to Git    | [An Intro to Git](https://masalha-96.github.io/reading-notes/Code%20102/Read02)
 Read03       |    HTML       | [HTML](https://masalha-96.github.io/reading-notes/Code%20102/Read03)
@@ -34,7 +34,7 @@ Read09      |          CLI  | [CLI](https://masalha-96.github.io/reading-notes/C
 
 Read NO      | Subject   | Link
 -------------|---------- |---------
-Read00       | Introductory HTML and JavaScript           |  [ Introductory HTML and JavaScript](https://masalha-96.github.io/reading-notes/Code%20201/class-01)
+class-01      | Introductory HTML and JavaScript           |  [ Introductory HTML and JavaScript](https://masalha-96.github.io/reading-notes/Code%20201/class-01)
 
 
 
