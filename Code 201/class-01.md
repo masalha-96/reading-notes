@@ -47,7 +47,7 @@ appearance of the content of these elements using CSS.
 are not desired.
 
 9. special symbols 
-![special symbols](shortcut.png)
+![special symbols](https://user-images.githubusercontent.com/82366682/115978954-9001b400-a58b-11eb-905d-4ef88f0d98c1.png)
 
 
 #### HTML Chapter 17 (HTML5 Layout) :
@@ -70,7 +70,7 @@ are not desired.
 * Every website should be designed for the **target** audience , you should determine **who** people will visit your website and **why** and **what** they need , and ask yourself set of questions to make determine the target more easily.
 
 * should determine the **sitemap** to make the designing step more easily.that allow you to plan the structure of a site
-![sitemap img](https://user-images.githubusercontent.com/82366682/115978853-14a00280-a58b-11eb-99eb-c60482d66b1f.png))
+![sitemap img](https://user-images.githubusercontent.com/82366682/115978853-14a00280-a58b-11eb-99eb-c60482d66b1f.png)
 
 * **WireFrames** A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
 
