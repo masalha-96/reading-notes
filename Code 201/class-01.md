@@ -9,7 +9,7 @@
 * **Screen readers**:are programs that read out the contents of a computer screen to a user.
 
 
-* You can be anywhere in the world and sent a request to open any website , the browser in your region will connect to the **Domain Name System (DSN)** to the website region to allow you visit the website.
+* You can be anywhere in the world and sent a request to open any website , the browser in your region will connect to the **Domain Name System (DNS)** to the website region to allow you visit the website.
 
      1. When you connect to the web, you do so via an Internet Service Provider (ISP). You type a domain name or  eb address into your browser to visit a site; for example: google.com, bbc.co.uk, microsoft.com.
      2. Your computer contacts a network of servers called Domain Name System (DNS) servers. They tell your computer the IP address associated with the requested domain name. Every device connected to the web has a unique IP address; it is like the id for that computer.
