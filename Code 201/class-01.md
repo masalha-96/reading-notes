@@ -126,8 +126,8 @@ are not desired.
    *  COMPARISON OPERATORS ` var cond = 3 > 5; `
    *  LOGICAL OPERATORS `var cond = (5 > 3) && (2 < 4);`
 
-###### Mathematical operators in JavaScript:
-![mathematical operators img](js.png) 
+###### Arithmetic  operators in JavaScript:
+![Arithmetic Operators img](https://user-images.githubusercontent.com/82366682/115979061-4f566a80-a58c-11eb-9a60-fe5ba7c8c2a7.png)
 
 * **ORDER OF EXECUTION :**
      1. parentheses.
