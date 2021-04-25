@@ -131,19 +131,17 @@ are not desired.
 
 
 ### Expressions & Operators:
-### EXPRESSIONS :
+#### EXPRESSIONS :
    * there are two types of expressions:
       1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE ` var name="aya" `
       2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE ` var area =5*2 `. the value that stored in area var is 10 .
 
-#### OPERATORS :
-   *  ASSIGNMENT OPERATORS ` var name = "Sohaib" ; ` here we assgin the value to the variable.
-   *  ARITHMETIC OPERATORS ` var area = 3 * 2; `   
+##### OPERATORS :
+   *  ASSIGNMENT OPERATORS ` var name = "Sohaib" ; ` here we assgin the value to the variable.`   
    *  STRING OPERATORS ` var fullName ='Sohaib'+'Masalha' ;` Also MIXING NUMBERS AND STRINGS equal STRING ` '5' + 5 = 55 ` , the result '55' is string.
    *  COMPARISON OPERATORS ` var cond = 3 > 5; `
    *  LOGICAL OPERATORS `var cond = (5 > 3) && (2 < 4);`
-
-#### Arithmetic  operators in JavaScript:
+   *  ARITHMETIC OPERATORS ` var area = 3 * 2; 
 ![Arithmetic Operators img](https://user-images.githubusercontent.com/82366682/115979061-4f566a80-a58c-11eb-9a60-fe5ba7c8c2a7.png)
 
 * **ORDER OF EXECUTION :**
