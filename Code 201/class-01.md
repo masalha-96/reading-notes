@@ -1,6 +1,8 @@
-### HTML Book
-#### Introduction 
-##### How People Access the Web :
+#Introductory HTML and JavaScript
+
+## HTML Book
+### Introduction 
+#### How People Access the Web :
 * **web browser** :Software allow you to visit and access the websites (safari,google chroom,opera ,...)
 * **Web Servers** :Are special computers connected to the internet, when you visit the website, you sent a request to this machine to visit the website.
 * **Devices** : we have a diiferent devices and connections.
@@ -15,7 +17,7 @@
      4. The web server then sends the page you requested back to your web browser. 
 
 
-#### HTML Chapter 1 (Structure) :
+### HTML Chapter 1 (Structure) :
 * HTML pages contain a set or group of tags , this tags will determine the Structure and content of your website.
 * HTML refer to Hyper Text Markup Language .
 * HTML contain a  tags , each tag has a different usage that called a elements.
@@ -34,7 +36,7 @@
 * each attribute contain a Attribute_name and value `<p id="id1"> </p>` , id is a Attributes_name and id1 the value.
 
 
-#### HTML Chapter 8 (Extra Markup) :
+### HTML Chapter 8 (Extra Markup) :
 1. `<! DOCTYPE ......>` to tell a browser which version of HTML the page is using.
 3. `<!-- -->` make a comment are not visible to users in the main browser window in HTML `<!-- comment goes here -->`.
 3. **id** attribute used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore (not a number or any other character).
@@ -50,7 +52,7 @@ are not desired.
 ![special symbols](https://user-images.githubusercontent.com/82366682/115978954-9001b400-a58b-11eb-905d-4ef88f0d98c1.png)
 
 
-#### HTML Chapter 17 (HTML5 Layout) :
+### HTML Chapter 17 (HTML5 Layout) :
 * HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them.
      1. `<header>`,`<footer>`The main header or footer that appears at the top or bottom of every page on the site.
      2. `<nav>` navigation bar contain the main links (pages) on your website
@@ -66,7 +68,7 @@ are not desired.
 
 
 
-#### HTML Chapter 18 (Process & Design):
+### HTML Chapter 18 (Process & Design):
 * Every website should be designed for the **target** audience , you should determine **who** people will visit your website and **why** and **what** they need , and ask yourself set of questions to make determine the target more easily.
 
 * should determine the **sitemap** to make the designing step more easily.that allow you to plan the structure of a site
@@ -86,17 +88,17 @@ are not desired.
 
 
 
-### JavaScript Book 
-#### Introduction :
-###### why we use JAvaScript :
+## JavaScript Book 
+### Introduction :
+#### why we use JAvaScript :
 * allows you to **ACCESS** content .
 * allows you to **MODIFY** content .
 * **program resuls** while you writing a steps , the browser will following and executing the steps.
 * **react** to to events triggered by the user or browser(when you press to any key from keyboard , clicked the mouse , double clicked ,.. all of them called event ) .
 
 
-#### chapter 1 (The ABC of Programming) :
-##### WRITING A SCRIPT :
+### chapter 1 (The ABC of Programming) :
+#### WRITING A SCRIPT :
 * the fist step is DEFINE the goal then DESIGN then CODE EACH STEP .
 
 * to write a clear code you should learn :
@@ -106,27 +108,27 @@ are not desired.
 * what might have gone wrong - programmers call **debugging.**
 * Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
 
-###### What happens when you entered your name inside imput feild and press to btn (ok)?
+#### What happens when you entered your name inside imput feild and press to btn (ok)?
 1. The script is triggered when the button is clicked.
 2. It collects the name entered into the form field.
 3. It checks that the user has entered a value.
 4. If the user has not entered anything, a message will appear telling them to enter a name.
 
 
-##### Expressions + Operators:
-###### EXPRESSIONS :
+#### Expressions & Operators:
+##### EXPRESSIONS :
    * there are two types of expressions:
       1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE ` var name="aya" `
       2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE ` var area =5*2 `. the value that stored in area var is 10 .
 
-###### OPERATORS :
+##### OPERATORS :
    *  ASSIGNMENT OPERATORS ` var name = "Sohaib" ; ` here we assgin the value to the variable.
    *  ARITHMETIC OPERATORS ` var area = 3 * 2; `   
    *  STRING OPERATORS ` var fullName ='Sohaib'+'Masalha' ;` Also MIXING NUMBERS AND STRINGS equal STRING ` '5' + 5 = 55 ` , the result '55' is string.
    *  COMPARISON OPERATORS ` var cond = 3 > 5; `
    *  LOGICAL OPERATORS `var cond = (5 > 3) && (2 < 4);`
 
-###### Arithmetic  operators in JavaScript:
+##### Arithmetic  operators in JavaScript:
 ![Arithmetic Operators img](https://user-images.githubusercontent.com/82366682/115979061-4f566a80-a58c-11eb-9a60-fe5ba7c8c2a7.png)
 
 * **ORDER OF EXECUTION :**
