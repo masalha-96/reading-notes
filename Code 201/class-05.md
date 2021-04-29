@@ -95,4 +95,4 @@
      3. **ems** An em is equivalent to the width of a letter m.
 
 ### Units of Type Size
-![Units of Type Size](https://github.com/masalha-96/reading-notes/blob/main/pics/201/class-05/units%20of%20type%20size.png)
+![Units of Type Size](https://github.com/masalha-96/reading-notes/blob/main/pics/201/class-05/units%20of%20type%20size.png?raw=true)
