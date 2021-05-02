@@ -13,18 +13,27 @@
 
 
 <br>
+
 ---
----
+
+
 <br>
 
 ## Chapter 5: “Document Object Model (DOM)”
+
+![DOM Tree](https://techbymarty.files.wordpress.com/2015/12/dom-tree.png?w=840)
+
 * **The Document Object Model (DOM)** specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window.
 
 * The DOM specifies the way in which the browser should structure this model using a DOM tree.
 * The DOM is called an object model because the model (the DOM tree) is made of objects.
 * Each object represents a different part of the page loaded in the browser window.
 * **Application Programming Interface (API)**. User interfaces let humans interact with programs; APls let programs (and scripts) talk to each other.
-* Each node is an object with methods and properties.
+
+
+
+
+### DOM Contains 4 Types of Nodes :: Each Node Is an Object With Methods and Properties :
 
 1. **The Document Node** it represents the entire page.
 2. **Element Nodes** HTML elements describe the structure of an HTML page. (The `<h l > - <h6> `elements describe what parts are headings; the `<p>` tags indicate where.
