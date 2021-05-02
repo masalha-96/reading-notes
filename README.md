@@ -5,6 +5,8 @@
 # about me 
  I'm **Suhaib Masalha**, I'm 24 years old and I've a bachelors degree of computer engineering from BAU,  I'm here to improve my English, and learning more about programming in this wonderful educational environment.
 
+<br>
+
 
 
 ## Code 102 Reading Notes
