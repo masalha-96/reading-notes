@@ -24,8 +24,12 @@ Read07       |     Colors in CSS      | [Colors in CSS](https://masalha-96.githu
 Read09      |          CLI  | [CLI](https://masalha-96.github.io/reading-notes/Code%20102/Read09)
 
 
+
+<br>
+<br>
+
 ---
----
+
 
 <br>
 <br>
