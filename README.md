@@ -14,16 +14,16 @@
 
 Read NO      | Subject   | Link
 -------------|---------- |---------
-Read0        | Growth Mindset           | [GrowthMindset](https://masalha-96.github.io/reading-notes/Code%20102/GrowthMindset)
-Read01       | Markdown          | [Markdown](https://masalha-96.github.io/reading-notes/Code%20102/Read01)
-Read02       |       An Intro to Git    | [An Intro to Git](https://masalha-96.github.io/reading-notes/Code%20102/Read02)
-Read03       |    HTML       | [HTML](https://masalha-96.github.io/reading-notes/Code%20102/Read03)
-Read04a      |      The Main Components of Websites     | [The Main Components of Websites](https://masalha-96.github.io/reading-notes/Code%20102/Read04a)
-Read04b      |      How Computers Work     | [How Computers Work](https://masalha-96.github.io/reading-notes/Code%20102/Read04b)
-Read05       |      Operators in JS      | [Operators in JS ](https://masalha-96.github.io/reading-notes/Code%20102/Read05)
-Read06       |      Programming with JS     | [Programming with JS](https://masalha-96.github.io/reading-notes/Code%20102/Read06)
-Read07       |     Colors in CSS      | [Colors in CSS](https://masalha-96.github.io/reading-notes/Code%20102/Read07)
-Read09      |          CLI  | [CLI](https://masalha-96.github.io/reading-notes/Code%20102/Read09)
+Read0        | Growth Mindset           | [Summary](https://masalha-96.github.io/reading-notes/Code%20102/GrowthMindset)
+Read01       | Markdown          | [Summary](https://masalha-96.github.io/reading-notes/Code%20102/Read01)
+Read02       |       An Intro to Git    | [Summary](https://masalha-96.github.io/reading-notes/Code%20102/Read02)
+Read03       |    HTML       | [Summary](https://masalha-96.github.io/reading-notes/Code%20102/Read03)
+Read04a      |      The Main Components of Websites     | [Summary](https://masalha-96.github.io/reading-notes/Code%20102/Read04a)
+Read04b      |      How Computers Work     | [Summary](https://masalha-96.github.io/reading-notes/Code%20102/Read04b)
+Read05       |      Operators in JS      | [Summary](https://masalha-96.github.io/reading-notes/Code%20102/Read05)
+Read06       |      Programming with JS     | [Summary](https://masalha-96.github.io/reading-notes/Code%20102/Read06)
+Read07       |     Colors in CSS      | [Summary](https://masalha-96.github.io/reading-notes/Code%20102/Read07)
+Read09      |          CLI  | [Summary](https://masalha-96.github.io/reading-notes/Code%20102/Read09)
 
 
 
