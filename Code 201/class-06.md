@@ -33,7 +33,7 @@
 
 
 
-### Each node is an object with methods and properties.
+### DOM Contains 4 Types of Nodes :: Each Node Is an Object With Methods and Properties :
 
 1. **The Document Node** it represents the entire page.
 2. **Element Nodes** HTML elements describe the structure of an HTML page. (The `<h l > - <h6> `elements describe what parts are headings; the `<p>` tags indicate where.
