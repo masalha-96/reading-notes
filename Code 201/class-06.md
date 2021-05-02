@@ -18,6 +18,9 @@
 <br>
 
 ## Chapter 5: “Document Object Model (DOM)”
+
+![DOM Tree](https://techbymarty.files.wordpress.com/2015/12/dom-tree.png?w=840)
+
 * **The Document Object Model (DOM)** specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window.
 
 * The DOM specifies the way in which the browser should structure this model using a DOM tree.
@@ -25,7 +28,7 @@
 * Each object represents a different part of the page loaded in the browser window.
 * **Application Programming Interface (API)**. User interfaces let humans interact with programs; APls let programs (and scripts) talk to each other.
 
-![DOM Tree](https://techbymarty.files.wordpress.com/2015/12/dom-tree.png?w=840)
+
 
 
 ### Each node is an object with methods and properties.
