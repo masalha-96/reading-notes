@@ -49,7 +49,7 @@ class-05      | HTML Images; CSS Color & Text  | [Summary](https://masalha-96.gi
 class-06      | Problem Domain, Objects, and the DOM  | [Summary](https://masalha-96.github.io/reading-notes/Code%20201/class-06)       
 class-07      | Object-Oriented Programming, HTML Tables  | [Summary](https://masalha-96.github.io/reading-notes/Code%20201/class-07)         
 class-08      | CSS Layout | [Summary](https://masalha-96.github.io/reading-notes/Code%20201/class-08)           
-class-09      |          
+class-09      | Forms and JS Events | [Summary](https://masalha-96.github.io/reading-notes/Code%20201/class-09)
 class-10      |          
 class-11      |          
 class-12      |          
