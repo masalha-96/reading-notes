@@ -51,7 +51,7 @@ class-07      | Object-Oriented Programming, HTML Tables  | [Summary](https://ma
 class-08      | CSS Layout | [Summary](https://masalha-96.github.io/reading-notes/Code%20201/class-08)           
 class-09      | Forms and JS Events | [Summary](https://masalha-96.github.io/reading-notes/Code%20201/class-09)
 class-10      | JS Debugging |  [Summary](https://masalha-96.github.io/reading-notes/Code%20201/class-10)          
-class-11      |          
+class-11      |   Audio, Video, Images  |     [Summary](https://masalha-96.github.io/reading-notes/Code%20201/class-11)
 class-12      |          
 class-13      |          
 class-14      |  
