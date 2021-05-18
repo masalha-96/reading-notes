@@ -18,6 +18,8 @@ LocalStorage |  it’s a way for web pages to store named key/value pairs locall
 ### 1. set function 
 * used to covert my array to string using JSON.stringify() method,  then to save my data into localStorage, because localStorage contain strings only.
 
+<br>
+
 **function set()** 
 {
 
@@ -35,9 +37,11 @@ LocalStorage |  it’s a way for web pages to store named key/value pairs locall
 ### 2. get function 
 * used to covert my array to numbers again with JSON.parse() method.
 
+<br>
+
 **function getStoredItems()** {
 
-{
+
 
     let stringData = localStorage.getItem('dataKey');
     let normalData = JSON.parse(stringData);
