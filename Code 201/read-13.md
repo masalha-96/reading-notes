@@ -13,7 +13,7 @@ LocalStorage |  it’s a way for web pages to store named key/value pairs locall
 
 
 
-++
+
 ## How to use localStorage in JS: 
 ### 1. set function 
 * used to covert my array to string using JSON.stringify() method,  then to save my data into localStorage, because localStorage contain strings only.
