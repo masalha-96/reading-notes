@@ -54,8 +54,8 @@ class-10      | JS Debugging |  [Summary](https://masalha-96.github.io/reading-n
 class-11      |   Audio, Video, Images  |     [Summary](https://masalha-96.github.io/reading-notes/Code%20201/class-11)
 class-12      |   Charts $ Cnvas  | [Summary](https://masalha-96.github.io/reading-notes/Code%20201/class-12)    
 class-13      |  Local Storage    | [Summary](https://masalha-96.github.io/reading-notes/Code%20201/class-13)
-class-14      |  
-class-15      |   
+class-14a      |  CSS Transforms, Transitions, and Animations | [Summary](https://masalha-96.github.io/reading-notes/Code%20201/class-14a)
+class-14b      |   What Google Learned About Teams | [Summary](https://masalha-96.github.io/reading-notes/Code%20201/class-14b)
 
 
 
