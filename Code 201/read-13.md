@@ -16,7 +16,7 @@ LocalStorage |  it’s a way for web pages to store named key/value pairs locall
 ++
 ## How to use localStorage in JS: 
 ### 1. set function 
-* I used it, to covert my array to string using JSON.stringify() method,  then to save my data into localStorage, because localStorage contain strings only.
+* used to covert my array to string using JSON.stringify() method,  then to save my data into localStorage, because localStorage contain strings only.
 
 **function set()** 
 {
@@ -33,7 +33,7 @@ LocalStorage |  it’s a way for web pages to store named key/value pairs locall
 
 
 ### 2. get function 
-* I used it, to covert my array to numbers again with JSON.parse() method.
+* used to covert my array to numbers again with JSON.parse() method.
 
 **function getStoredItems()** {
 
